@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rangeshpandianpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangeshpandianpt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rangeshpandian-pt-428b04325/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rangeshpandianpt" height="30" width="40" /></a>
 <a href="https://kaggle.com/rangeshpandianpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rangeshpandianpt" height="30" width="40" /></a>
 <a href="https://instagram.com/_rangesh_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rangesh_07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rangeshpandian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rangeshpandian" height="30" width="40" /></a>
