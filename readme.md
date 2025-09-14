@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm RANGESHPANDIAN PT</h1>
-<h3 align="center">A passionate Full-Stack developer and Data Scientist from Chennai</h3>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />, I'm 
+  <span style="font-family:Algerian; font-size:40px;">RANGESHPANDIAN PT</span>
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=A+Passionate+Full-Stack+Developer;Data+Scientist+from+Chennai" alt="Typing Animation" />
+</p>
 
-<h1 align="center">Hi 👋, I'm RANGESHPANDIAN PT</h1>
-<h3 align="center">A passionate Full-Stack developer and Data Scientist from Chennai</h3>
 
 <table align="center">
   <tr>
