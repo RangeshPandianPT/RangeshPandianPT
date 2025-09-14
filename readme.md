@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm RANGESHPANDIAN PT</h1>
 <h3 align="center">A passionate Full-Stack developer and Data Scientist from Chennai</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThqeDZjZmVlemRhaXpvNmthZnpxamQ3c2xvbmlnZHdsdG14OWgzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Boy Typing" width="200"/>
-</p>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- Left GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29vOGc0ZzVvdWo2NDZueTBoeXNvd3V0dXVzbWd6NGQ5anVhOHp4OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dxn6fRlTIShoeBr69N/giphy.gif" 
+       alt="Laptop Coding" width="200"/>
+
+  <!-- Right GIF -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZThqeDZjZmVlemRhaXpvNmthZnpxamQ3c2xvbmlnZHdsdG14OWgzaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" 
+       alt="Boy Typing" width="200"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangeshpandianpt&label=Profile%20views&color=0e75b6&style=flat" alt="rangeshpandianpt" /> </p>
 
