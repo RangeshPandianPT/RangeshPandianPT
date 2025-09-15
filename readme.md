@@ -3,7 +3,7 @@
   <span style="font-family:Algerian; font-size:40px;">RANGESHPANDIAN PT</span>
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=A+Passionate+Full-Stack+Developer;Data+Scientist+from+Chennai" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=A+Passionate+Full-Stack+Developer;Data+Scientist" alt="Typing Animation" />
 </p>
 
 
