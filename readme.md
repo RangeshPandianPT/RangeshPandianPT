@@ -21,7 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangeshpandianpt&label=Profile%20views&color=0e75b6&style=flat" alt="rangeshpandianpt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rangeshpandianpt" alt="rangeshpandianpt" /></a> </p>
 
 - 🔭 I’m currently working on [HarvAI](https://harva-i.netlify.app/)
 
