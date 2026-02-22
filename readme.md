@@ -22,11 +22,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangeshpandianpt&label=Profile%20views&color=0e75b6&style=flat" alt="rangeshpandianpt" /> </p>
 
 
-- 🔭 I’m currently working on [HarvAI](https://harva-i.netlify.app/)
+- 🔭 I’m currently working on AI/ML Based Projects
 
-- 🌱 I’m currently learning **Java | React | MongoDB** | Angular
-
-- 🤝 I’m looking for help with [AlphaAI](https://alpha-trendai.netlify.app/)
+- 🌱 I’m currently learning **Java | React | MongoDB | Core ML/DL**
 
 - 👨‍💻 All of my projects are available at [https://rangesh-portfolio.netlify.app/](https://rangesh-portfolio.netlify.app/)
 
