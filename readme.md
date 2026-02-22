@@ -136,7 +136,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=RangeshPandianPT&theme=dark&hide_border=false)<br/>
+<img src="https://streak-stats.demolab.com?user=RangeshPandianPT&theme=dark&hide_border=true" alt="RangeshPandianPT's GitHub Stats" /><br/>
 
 
 ---
