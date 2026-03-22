@@ -134,6 +134,11 @@
   <a href="https://github.com/ishandutta2007/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=WEB-Developer/AI/Data-Science;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rangeshpandianpt&show_icons=true&locale=en&layout=compact" alt="rangeshpandianpt" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rangeshpandianpt&show_icons=true&locale=en" alt="rangeshpandianpt" /></p>
+
 # 📊 GitHub Stats:
 
 <img src="https://streak-stats.demolab.com?user=RangeshPandianPT&theme=dark&hide_border=true" alt="RangeshPandianPT's GitHub Stats" /><br/>
